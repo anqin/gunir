@@ -1,5 +1,5 @@
 # gunir
 
-Gunir has graduated from demo show and step into the real-life product application.
+Gunir has graduated from testbed and be launched to the real-life product application.
 
 Thanks for attention and following~~
